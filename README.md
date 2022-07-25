@@ -21,7 +21,7 @@ Find correctly directory
 ```
 cd reformer/reformer
 ```
-And run:
+And run
 ```
 python main.py
 ```
