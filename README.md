@@ -17,7 +17,11 @@ Clone the repository
 git clone https://github.com/bullbesh/reformer
 ```
 
-Find correctly directory (folder `reformer`) and run:
+Find correctly directory
+```
+cd reformer/reformer
+```
+And run:
 ```
 python main.py
 ```
