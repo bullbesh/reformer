@@ -1,4 +1,4 @@
-<img src="https://github.com/bullbesh/reformer/blob/main/reformer/image/reformer.png" width="210" height="180">
+<img src="https://github.com/bullbesh/reformer/blob/main/reformer/image/reformer.png" width="420" height="360">
 
 **reformer** is a simple program that help you to reform any word from Cyrillan to Latin.
 
