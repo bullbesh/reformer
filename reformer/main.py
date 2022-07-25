@@ -6,7 +6,7 @@ from reform_dictionary import reformCyrillicToLatin
 def reform_cyrillic_to_latin():
     print(
         "-------------------------------------\n\n"
-        "~ There is reformer program thats can help you"
+        "~ There is reformer program thats can help you "
         "to convers of Cyrillic into Latin."
         "\n\n-------------------------------------\n"
     )
