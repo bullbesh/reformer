@@ -37,7 +37,7 @@ python main.py
 ```
 
 ### Motives
-Everyone once wanted to (or wants now) to set a _cool_ nickname, but sometimes it's hard to come up with it yourself. reformer will do it quickly, for free and efficiently.
+Everyone once wanted (or wants now) to set a _cool_ nickname, but sometimes it's hard to come up with it yourself. reformer will do it quickly, for free and efficiently.
 
 ### License
 [MIT License](https://github.com/bullbesh/reformer/blob/main/LICENSE)
